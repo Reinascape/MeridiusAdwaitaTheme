@@ -1,11 +1,11 @@
 {
     "version": "0.0.1",
-    "compatibility": "3.2.1",
+    "compatibility": "3.3.4",
     "id": "MeridiusAdwaitaTheme",
     "name": "Adwaita",
     "description": "Meridius theme with Adwaita colors.",
     "repository": {
-        "username": "wenemous",
+        "username": "reinascape",
         "name": "MeridiusAdwaitaTheme",
         "branch": "main"
     },
@@ -14,17 +14,9 @@
         "primary": "#141414",
         "secondary": "#E9003F"
     },
-    "variables": {
-        "my-variable": {
-            "value": "#131313",
-            "name": {
-                "ru": "Моя переменная",
-                "en": "My variable"
-            }
-        }
-    },
+    
     "author": {
-        "name": "Wenemous Turnip",
-        "contact": "https://t.me/wenemous"
+        "name": "Reinascape",
+        "contact": "https://t.me/reinascape"
     }
 }
